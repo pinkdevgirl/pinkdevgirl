@@ -17,27 +17,13 @@
 
 ---
 
-### 💻 Tech I'm Learning
+### 💻 What I'm Working On
 
-![HTML](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS3-ffc0cb?style=for-the-badge&logo=css3&logoColor=white)
+🌸 Vibe Coding
+🤖 Artificial Intelligence
+🚀 Meme Coins & Web3
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-ff1493?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkdevgirl&show_icons=true&theme=rose_pine)
-
----
-
-### 🌸 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkdevgirl&layout=compact&theme=rose_pine)
 
 ---
 
